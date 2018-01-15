@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Jekyll 101"
+date:   2018-01-15 16:16:56 -0500
+categories: jekyll update
+---
+I have been wanting to create a website for a long time. The installation took a very long time, but I was able to publish the website as of today! I'm excited to learn more about Jekyll and to beautify this page. 
