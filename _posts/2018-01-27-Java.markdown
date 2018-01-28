@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Intro to Java Week 1-2"
+title:  "Basics of Java language"
 date:   2018-01-27 16:21:56 -0500
 categories: jekyll update
 ---
